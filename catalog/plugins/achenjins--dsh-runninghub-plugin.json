@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "achenjins/dsh-runninghub-plugin",
+  "name": "dsh-runninghub-plugin",
+  "repository": "https://github.com/achenjins/dsh-runninghub-plugin",
+  "category": "workflow",
+  "description": {
+    "en": "Runs your RunningHub ComfyUI workflows from DSH to generate images, video and audio. Includes a panel for importing and configuring workflows, background tasks with completion notifications, and account balance and queue queries.",
+    "zh": "在 DSH 中调用你的 RunningHub ComfyUI 工作流生成图片、视频和音频。提供导入与配置工作流的面板、带完成通知的后台任务，以及账户余额和队列查询。"
+  },
+  "added": "2026-10-28"
+}
